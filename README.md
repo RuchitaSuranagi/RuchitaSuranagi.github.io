@@ -1,2 +1,2 @@
 # RuchitaSuranagi.github.io
-Basic web site for web design - Coursera course
+Basic web site for web designing 
